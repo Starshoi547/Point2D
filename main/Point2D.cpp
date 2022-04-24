@@ -10,7 +10,9 @@ Point2D::Point2D(int x, int y) {
 	this->y = y;
 };
 
-
+Point2D::~Point2D() {
+	cout << "Delete point " << endl;
+};
 
 
 int Point2D::getX() const {

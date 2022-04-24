@@ -10,13 +10,14 @@ int main()
     Point2D p3;
 
 
-    cout << p1.getInfo() << endl;
+    /*cout << p1.getInfo() << endl;
     cout << p2.getInfo() << endl;
     p3 = p1 + p2;
     cout << p3.getInfo() << endl;
     p3 = p1 - p2;
     cout << p3.getInfo() << endl;
     p3 = p1 * p2;
+
     cout << p3.getInfo() << endl;
     p3 = p1 / p2;
     cout << p3.getInfo() << endl;
@@ -27,7 +28,7 @@ int main()
     cout << p1.getInfo() << endl;
     cout << p3.getInfo() << endl;
 
-
+    */
 
     return 0;
 }
